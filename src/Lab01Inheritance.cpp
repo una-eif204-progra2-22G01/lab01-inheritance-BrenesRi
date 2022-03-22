@@ -1,5 +1,4 @@
 #include <iostream>  // allows program to output data to the screen
-
 #include "Derived1.h"
 #include "Derived2.h"
 // function main begins program execution
