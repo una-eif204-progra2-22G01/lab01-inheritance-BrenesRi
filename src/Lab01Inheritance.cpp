@@ -4,6 +4,7 @@
 // function main begins program execution
 int main(int argc, const char *argv[]) {
     std::cout << "Welcome to the UNA!" << std::endl;
+    std::cout << "Thank you, teacher!" << std::endl;
 
     Derived1 derived1;
     derived1.do_something();
