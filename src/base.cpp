@@ -9,6 +9,11 @@ base::base(){}
 
 base::~base() {}
 
- void base::do_something() {
+ void base::do_something() {}
 
+const string &base::getName() const {
+    return name;
+}
+void base::setName(const string &name_) {
+    base::name = name_;
 }
