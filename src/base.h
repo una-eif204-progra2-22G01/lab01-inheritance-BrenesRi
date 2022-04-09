@@ -23,6 +23,7 @@ public:
     //set and get
     const string &getName() const;
     void setName(const string &name_);
+    //Prueba sin GithubDesktop
 };
 
 
